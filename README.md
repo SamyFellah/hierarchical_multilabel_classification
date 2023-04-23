@@ -6,6 +6,7 @@ The model is based on state-of-the-art deep learning techniques, specifically co
 
 # Dataset
 The model was trained and evaluated on a large-scale dataset of clothing images, which contains images of various types of clothing items, including tops, bottoms, dresses, shoes, and accessories. The dataset is labeled with gender information and a hierarchical category structure that includes master_category, sub_category, and article_type labels.
+
 Link: "https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small"
 
 # Usage
